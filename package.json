@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "formidable": "^3.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.3",
+    "nodemailer": "^6.9.7",
+    "nodemon": "^3.0.1",
+    "upper-case": "^3.0.0"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HieuHoangit/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HieuHoangit/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/HieuHoangit/nodejs_blog#readme",
+  "description": ""
+}
